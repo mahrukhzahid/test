@@ -1,0 +1,78 @@
+.nav-link {
+margin-left: 100px;
+}
+.bon{
+    border-radius: 50px;
+    margin-left: 90px;
+    width: 100px;
+}
+.container{
+  width: 900px;
+    height: 80vh;
+    border: 1px solid black;
+    background-color: aquamarine;
+
+}
+.one{
+    margin-top: 200px;
+    margin-top:400px ;
+margin-left: 50px;
+}
+
+.para{
+    margin-top: 200px;
+
+}
+.head{
+font-size: 40px;
+}
+.box{
+    width:300px ;
+    height: 30vh;
+    height: 30vh;
+    margin-left: 800px;
+
+}
+.je{
+float: inline-end;
+}
+.von{
+    border-radius: 50px;
+    margin-top: 20px;
+
+}
+.on{
+    border-radius: 50px;
+    background-color: black;
+    color: whitesmoke;
+}
+.ki{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.as{
+    margin-top: 20px;
+    margin-left: 100px;
+
+}
+.fi{
+    margin-left: 200px;
+}
+.d{
+    margin-left: 200px;
+}
+.w{
+    margin-left: 200px;
+
+}
+.fo{
+margin-top: 100px;
+margin-left: 100px;
+
+}
+.bb{
+    margin-left: 100px;
+}
+.jj{
+    display: flex;
+}
